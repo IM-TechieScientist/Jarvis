@@ -20,6 +20,7 @@ If you want to save yourself this hassle go ahead and invite my bot to your serv
 https://discord.com/api/oauth2/authorize?client_id=837227375284584468&permissions=2184706368&scope=bot
 
 Features:
+
 1)Can play music
 
 2)Can tell latency 
